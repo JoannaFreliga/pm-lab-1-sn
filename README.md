@@ -21,7 +21,7 @@ Odpowiedź: Nie ma znaczenia, czy rezystor będzie przedd diodą, czy za nią.
 
 ## Zadanie 2-2-3:
 Pytanie:    *Czy każdy rodzaj pętli jest wymienny (zawsze można zastąpić jedną konstrukcję drugą)?*  
-Odpowiedź:  ...
+Odpowiedź: Jest wymienny, a decyzja, którą należy użyć w danym momencie, zależy głównie od kontekstu, w jakim ma być wykorzystana.
 
 ## Zadanie 2-2-4:
 Pytanie:    *Jak wpływa na działanie układu zwiększenie wartości stałej LED_T (np. do 100 ms)?*  
