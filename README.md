@@ -33,7 +33,7 @@ Odpowiedź:  Nagłe zmiany śwaiteł mogą być niebezpieczne dla ruchu.
 
 ## Zadanie 2-3-2:
 Pytanie:    *Czy możliwe jest sterowanie stanem niskim (LOW) diod LED?*  
-Odpowiedź:  ...
+Odpowiedź:  Tak, jest to możliwe
 
 # Zadania rozszerzajace
 ## Zadanie 3-1:
