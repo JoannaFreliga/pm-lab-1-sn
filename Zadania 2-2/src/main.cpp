@@ -8,6 +8,8 @@ void setup() {
 
 void loop() {
   pinMode(LED_BUILTIN, HIGH);
+  delay(500);
   digitalWrite(LED_BUILTIN, LOW);
+  delay(500);
   // put your main code here, to run repeatedly:
 }
